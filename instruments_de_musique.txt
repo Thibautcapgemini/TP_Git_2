@@ -4,3 +4,7 @@ biniou
 guitare
 flute
 percussions
+
+ukulélé
+djembé
+triangle
